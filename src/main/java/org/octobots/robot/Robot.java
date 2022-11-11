@@ -18,7 +18,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.rivierarobotics.robot;
+package org.octobots.robot;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 
